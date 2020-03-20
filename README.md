@@ -6,3 +6,5 @@ Todos:
   - Add mega?
   - Region specific form?
   - Darumaka?
+
+Analysis mostly on visualization
